@@ -1,4 +1,4 @@
-## ReactNative-SplashScreen
+## ReactNative-ShopCards
 
 Run the app:
 ```sh
